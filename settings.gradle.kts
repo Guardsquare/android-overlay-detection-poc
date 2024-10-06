@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ResearchOverlay"
-include ':app'
+include(":app")
